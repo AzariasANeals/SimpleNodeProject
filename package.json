@@ -1,0 +1,32 @@
+{
+  "name": "simplenodeproject",
+  "version": "1.0.0",
+  "description": "this is a simple node project for ad320.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AzariasANeals/SimpleNodeProject.git"
+  },
+  "keywords": [
+    "Azarias",
+    "node",
+    "project",
+    "SimpleNodeProject"
+  ],
+  "author": "Azarias A'Neals",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
